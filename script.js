@@ -3,61 +3,61 @@ const drinks = [
         id: 1,
         name: "Coca-Cola",
         category: "cola",
-        image: "coke.png"
+        image: media/"coke.png"
     },
     {
         id: 2,
         name: "Pepsi",
         category: "cola",
-        image: "pepsi.png"
+        image:media/ "pepsi.png"
     },
     {
         id: 3,
         name: "Thums Up",
         category: "cola",
-        image: "thumsup.png"
+        image:media/"thumsup.png"
     },
     {
         id: 4,
         name: "Campa Cola",
         category: "cola",
-        image: "campa.png"
+        image: media/"campa.png"
     },
     {
         id: 5,
         name: "Sprite",
         category: "lemon",
-        image: "sprite.png"
+        image: media"sprite.png"
     },
     {
         id: 6,
         name: "Limca",
         category: "lemon",
-        image: "limca.png"
+        image: media"limca.png"
     },
     {
         id: 7,
         name: "Fanta",
         category: "orange",
-        image: "fanta.png"
+        image: media"fanta.png"
     },
     {
         id: 8,
         name: "Mirinda",
         category: "orange",
-        image: "mirinda.png"
+        image:media "mirinda.png"
     },
     {
         id: 9,
         name: "Mountain Dew",
         category: "energy",
-        image: "mountain-dew.png"
+        image:media "mountain-dew.png"
     },
     {
         id: 10,
         name: "Sting Yellow",
         category: "energy",
-        image: "sting.png"
+        image:media "sting.png"
     }
     
     
